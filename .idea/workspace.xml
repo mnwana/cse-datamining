@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63650ef1-d700-46d4-922e-2d69971f075c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/off_shelf_knn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/distance.py" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/distance.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/income_sym_cosine.csv" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/income_sym_cosine.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/income_sym_euclidean.csv" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/income_sym_euclidean.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/off_shelf_knn.py" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/off_shelf_knn.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/output/knn_result_income.csv" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/output/knn_result_income.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/output/knn_result_iris.csv" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/output/knn_result_iris.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ass2_gupta526_nwana1/performance_eval.py" afterPath="$PROJECT_DIR$/ass2_gupta526_nwana1/performance_eval.py" />
     </list>
     <ignored path="cse-datamining-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -464,7 +461,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6054795" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20547946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20547946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
